@@ -1,6 +1,6 @@
 1. Project Overview
 I completed this project on cloud security controls in Amazon Web Services (AWS), focusing on Identity and Access Management (IAM). The goal was to create a least‑privilege policy, attach it to a user group, and verify that the policy correctly restricts actions on two Amazon EC2 instances (marketing and sales).
- 
+ <img width="900" height="354" alt="image" src="https://github.com/user-attachments/assets/bdc07475-1431-434e-ba52-367f31cef82d" />
 2. Tools & Concepts
 ●	AWS IAM – users, groups, policies, account alias
 ●	Amazon EC2 – instance tagging and lifecycle actions
